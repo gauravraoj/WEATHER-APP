@@ -1,4 +1,4 @@
 # WEATHER-APP
-![Screenshot (13)](https://github.com/gauravraoj/WEATHER-APP/assets/96016132/a39244ef-3c34-425e-bf02-f933465c83d3)
-![Screenshot (12)](https://github.com/gauravraoj/WEATHER-APP/assets/96016132/be3050fb-bb8f-4def-bc4b-49e9e417a5cf)
-![Screenshot (11)](https://github.com/gauravraoj/WEATHER-APP/assets/96016132/a0a2b87d-f9d1-4573-98fd-9fa6bd3d7e67)
+![Screenshot (12)](https://github.com/gauravraoj/WEATHER-APP/assets/96016132/b16a80e2-2ead-4f83-ac3d-79e4b12fb724)
+![Screenshot (13)](https://github.com/gauravraoj/WEATHER-APP/assets/96016132/82ec8299-3798-4867-a1c6-49f8c77dab44)
+![Screenshot (14)](https://github.com/gauravraoj/WEATHER-APP/assets/96016132/b15cc3cc-66c1-49d8-9729-1b236be904d8)
